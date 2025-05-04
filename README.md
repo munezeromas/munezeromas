@@ -1,57 +1,82 @@
-# MUNEZERO MAS
+# 🌟 MUNEZERO ALINE
 
-Hello! 👋 Welcome to my GitHub profile.
+Welcome to my GitHub! I'm **Munezero Aline**, a passionate Rwandan developer turning code into real-world impact. I craft digital solutions that are meaningful, beautiful, and built for purpose.
 
-I'm **Munezero Aline**, a passionate developer who loves creating useful and impactful web projects. I believe in using code to solve real-world problems and empower others.
-
----
-
-## 🏆 Achievements
-
-![Cups](https://img.shields.io/badge/Cups-7-blue?style=flat-square)
-![Stars](https://img.shields.io/badge/Stars-13-yellow?style=flat-square)
-![Projects](https://img.shields.io/badge/Projects-30%2B-success?style=flat-square)
-![Commits](https://img.shields.io/badge/Commits-1k%2B-orange?style=flat-square)
-
-- **7 Cups** of progress for consistent learning and creative projects  
-- **13 Stars** earned across different repositories  
-- **30+ Projects** available for review in my GitHub Repositories  
-- **1000+ Commits** representing hard work and growth over time
+> 💡 *“Code is not just lines; it's the language of power and possibility.”*
 
 ---
 
-## 🌟 Featured Project
+## 🧠 About Me
 
-### [ABILITY](https://ability250.netlify.app)
-A responsive and clean website that showcases potential and ideas.  
-Built with:  
-- `JavaScript`, `HTML`, `CSS`
-
-Check it out and feel free to share your thoughts!
+- 👩‍💻 Full-stack Developer | Java & Web Specialist  
+- 🌍 Based in Kigali, Rwanda  
+- 🛠 Creator of [ABILITY](https://ability250.netlify.app) — a vision, a statement  
+- 🎯 Focused on **clean code**, **AI potential**, and **empowering youth through tech**
 
 ---
 
-## 📂 Repositories
+## 🏆 GitHub Stats
 
-I currently have over **30 public repositories**, including:
-- Java-based console and GUI apps
-- Full-stack web apps
-- Frontend practice projects
-- Coding challenges and personal tools
-
-👉 Explore them in my [Repositories](https://github.com/munezeroaline?tab=repositories).
+![Cups](https://img.shields.io/badge/Cups-7-blue?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Stars-13-yellow?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-30%2B-brightgreen?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-1k%2B-orange?style=for-the-badge)
 
 ---
 
-## 📬 Contact Me
+## 🚀 Featured Project: [ABILITY 🌐](https://ability250.netlify.app)
 
-Want to collaborate or say hi? Let’s connect:
+> _“ABILITY isn’t just a site. It’s a digital message: you can become anything, from anywhere.”_
 
-- 📧 Email: [munezeromas@gmail.com](mailto:munezeromas@gmail.com)  
-- 💼 LinkedIn: [Munezero Aline](https://www.linkedin.com/in/munezero-aline-389058314/)  
-- 📸 Instagram: [@munezeroaline_](https://www.instagram.com/munezeroaline_/)
+**Technologies Used:**
+- `HTML`, `CSS`, `JavaScript`
+- Responsive Design Principles
+- Hosted on Netlify
+
+📌 Explore the site and feel the vision.
 
 ---
 
-> _"Code is not just lines; it's the language of power and possibility."_ 💻✨
+## 💼 What You’ll Find Here
+
+📁 **30+ Repositories** of creativity and skill:
+
+- 🎮 Java console applications  
+- 📊 Backend logic and multithreaded file processors  
+- 🌐 Frontend mini-projects and web UI experiments  
+- 🧠 AI & functional programming with Java streams and lambdas
+
+---
+
+## 🤝 Let’s Collaborate
+
+Whether you're a developer, designer, or dreamer — let’s build something powerful together.
+
+📬 **Reach Out:**
+- 📧 [munezeromas@gmail.com](mailto:munezeromas@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/munezero-aline-389058314/)
+- 📸 [Instagram](https://www.instagram.com/munezeroaline_/)
+
+---
+
+## 🔧 Tools & Tech I Love
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 🛤 My Journey
+
+From learning Java on paper to building cloud-based solutions and winning hackathons — every step has been growth. My goal? To inspire, build, and lead. And to show that **anyone from anywhere can create world-class software**.
+
+---
+
+> 🔥 _If you’ve reached this far, don’t just scroll — let’s connect, collaborate, and change the world together._
+
+
 
