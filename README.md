@@ -1,6 +1,6 @@
 # 🌟 MUNEZERO ALINE
 
-Welcome to my GitHub! I'm **Munezero Aline**, a passionate Rwandan developer turning code into real-world impact. I craft digital solutions that are meaningful, beautiful, and built for purpose.
+Welcome to my GitHub! I’m **Munezero Aline**, a purpose-driven software developer from Rwanda. I specialize in **Java**, **Spring Boot**, and **database systems** — creating clean, efficient, and human-centered applications that make a difference.
 
 > 💡 *“Code is not just lines; it's the language of power and possibility.”*
 
@@ -8,10 +8,11 @@ Welcome to my GitHub! I'm **Munezero Aline**, a passionate Rwandan developer tur
 
 ## 🧠 About Me
 
-- 👩‍💻 Full-stack Developer | Java & Web Specialist  
+- 👩‍💻 Full-stack Developer | Java, Spring Boot, Web & Database Specialist  
 - 🌍 Based in Kigali, Rwanda  
-- 🛠 Creator of [ABILITY](https://ability250.netlify.app) — a vision, a statement  
-- 🎯 Focused on **clean code**, **AI potential**, and **empowering youth through tech**
+- 📺 YouTuber at [**DEBUG WITH MAS**](https://www.youtube.com/@DEBUGWITHMAS) – where I decode tech, step-by-step  
+- 🛠 Creator of [**ABILITY**](https://ability250.netlify.app) — a digital vision and inspiration for many  
+- 🧱 Building projects with **clean code**, **real impact**, and **future-focused logic**
 
 ---
 
@@ -37,46 +38,66 @@ Welcome to my GitHub! I'm **Munezero Aline**, a passionate Rwandan developer tur
 
 ---
 
-## 💼 What You’ll Find Here
+## 🔧 Skills & Tech Stack
 
-📁 **30+ Repositories** of creativity and skill:
+**Programming & Frameworks**  
+- ☕ `Java`, `Java SE`, `Spring Boot`, `OOP`, `Multithreading`, `Lambdas`, `Streams`
 
-- 🎮 Java console applications  
-- 📊 Backend logic and multithreaded file processors  
-- 🌐 Frontend mini-projects and web UI experiments  
-- 🧠 AI & functional programming with Java streams and lambdas
+**Database & Backend**  
+- 🛢️ `PostgreSQL`, `MySQL`, `JDBC`, `Spring Data JPA`, `REST APIs`
+
+**Frontend & Design**  
+- 🎨 `HTML`, `CSS`, `JavaScript`, `Bootstrap`
+
+**Tools & Environments**  
+- 🛠 `Git`, `GitHub`, `IntelliJ`, `VSCode`, `Figma`, `Netlify`
+
+---
+
+## 🎓 What You’ll Find in My GitHub
+
+📁 Repositories filled with real-world learning and innovation:
+
+- ✅ Java Console Apps with Spring Boot logic  
+- 📂 Robust backend APIs and database-driven services  
+- 🌐 Frontend interfaces and UI experiments  
+- 🤖 Experiments in AI and advanced Java features  
+- 🧠 Clean architecture, OOP structure, and REST principles
+
+---
+
+## 📺 DEBUG WITH MAS — My YouTube Channel
+
+I break down tech concepts and coding tutorials in an easy, empowering way.  
+🎥 [**Subscribe here**](https://www.youtube.com/@DEBUGWITHMAS) for videos on:
+
+- Java & Spring Boot projects  
+- Database systems and queries  
+- Git, GitHub, and project walkthroughs  
+- Real coding challenges and interview prep
 
 ---
 
 ## 🤝 Let’s Collaborate
 
-Whether you're a developer, designer, or dreamer — let’s build something powerful together.
+Whether you're a developer, designer, educator, or dreamer — let’s build something meaningful together.
 
-📬 **Reach Out:**
-- 📧 [munezeromas@gmail.com](mailto:munezeromas@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/munezero-aline-389058314/)
+📬 **Contact Me**  
+- 📧 [munezeromas@gmail.com](mailto:munezeromas@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/munezero-aline-389058314/)  
 - 📸 [Instagram](https://www.instagram.com/munezeroaline_/)
 
 ---
 
-## 🔧 Tools & Tech I Love
+## 🌱 My Journey
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+From writing Java code on paper to building modern, cloud-hosted software and winning hackathons — I’ve grown with curiosity, discipline, and love for tech. My mission is to inspire the next generation to believe that **from anywhere, you can build something world-class.**
 
 ---
 
-## 🛤 My Journey
+> 🔥 _If you’ve read this far, it’s not by accident. Let’s connect, share, and change the world — one line of code at a time._
 
-From learning Java on paper to building cloud-based solutions and winning hackathons — every step has been growth. My goal? To inspire, build, and lead. And to show that **anyone from anywhere can create world-class software**.
 
----
-
-> 🔥 _If you’ve reached this far, don’t just scroll — let’s connect, collaborate, and change the world together._
 
 
 
