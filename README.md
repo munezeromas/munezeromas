@@ -8,7 +8,7 @@ Welcome to my GitHub! I’m **Munezero Aline**, a purpose-driven software develo
 
 ## 🧠 About Me
 
-- 👩‍💻 Full-stack Developer | Java, Spring Boot, Web & Database Specialist  
+- Developer   
 - 🌍 Based in Kigali, Rwanda  
 - 📺 YouTuber at [**DEBUG WITH MAS**](https://www.youtube.com/@DEBUGWITHMAS) – where I decode tech, step-by-step  
 - 🛠 Creator of [**ABILITY**](https://ability250.netlify.app) — a digital vision and inspiration for many  
