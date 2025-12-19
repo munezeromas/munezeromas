@@ -65,6 +65,8 @@ I'm a purpose-driven software developer passionate about creating **clean, scala
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Postgres-47A248?style=for-the-badge&logo=postgres&logoColor=white)
+
 
 ### Development Tools
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
