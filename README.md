@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Munezero Aline 👋
+# Hi there, I'm Munezero Aline (MAS) 👋🏾
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Full-Stack+Developer+%7C+Problem+Solver;Hackathon+Champion+%7C+Tech+Educator;Building+Impactful+Solutions+with+Code" alt="Typing SVG" />
 
@@ -13,13 +13,13 @@
 
 ---
 
-## 🚀 About Me
+## 👩🏿 About Me
 
 ```javascript
 const munezero = {
     location: "Kigali, Rwanda 🇷🇼",
     role: "Full-Stack Software Developer",
-    education: "Computer Science Student",
+    education: "Software Development",
     passions: ["Clean Code", "Innovation", "Tech Education"],
     currentFocus: ["Java Spring Boot", "React Applications", "Database Architecture"],
     achievements: ["GLC AI Hackathon Winner 🏆", "YouTube Tech Educator 📺"],
@@ -157,23 +157,23 @@ Breaking down complex tech concepts into digestible, empowering content. Join th
 <td width="50%">
 
 ### Backend Development
-- ☕ Java SE/EE & Spring Boot
-- 🏗️ RESTful API Architecture
-- 🔄 Microservices Design
-- 🧵 Multithreading & Concurrency
-- 📦 Object-Oriented Programming
-- 🎯 Clean Code Principles
+-  Java SE/EE & Spring Boot
+-  RESTful API Architecture
+-  Microservices Design
+-  Multithreading & Concurrency
+-  Object-Oriented Programming
+-  Clean Code Principles
 
 </td>
 <td width="50%">
 
 ### Frontend Development
-- ⚛️ React.js & Modern JavaScript
-- 🎨 Responsive Web Design
-- 🌊 TailwindCSS & CSS3
-- 📱 Mobile-First Approach
-- ✨ UI/UX Best Practices
-- 🎭 Component Architecture
+-  React.js & Modern JavaScript
+-  Responsive Web Design
+-  TailwindCSS & CSS3
+-  Mobile-First Approach
+-  UI/UX Best Practices
+-  Component Architecture
 
 </td>
 </tr>
@@ -181,23 +181,23 @@ Breaking down complex tech concepts into digestible, empowering content. Join th
 <td width="50%">
 
 ### Database Management
-- 🛢️ MySQL & MongoDB
-- 📊 Database Design & Normalization
-- ⚡ Query Optimization
-- 🔐 Data Security
-- 🔄 Transaction Management
-- 📈 Performance Tuning
+-  MySQL,Postgres and  MongoDB
+-  Database Design & Normalization
+-  Query Optimization
+-  Data Security
+-  Transaction Management
+-  Performance Tuning
 
 </td>
 <td width="50%">
 
 ### DevOps & Tools
-- 🔧 Git Version Control
-- 🐙 GitHub Workflows
-- 💻 VS Code & Vim
-- 🐧 Linux/Ubuntu
-- ☁️ Cloud Deployment
-- 🧪 Testing & Debugging
+-  Git Version Control
+-  GitHub Workflows
+-  VS Code & Vim
+-  Linux/Ubuntu
+-  Cloud Deployment
+-  Testing & Debugging
 
 </td>
 </tr>
@@ -209,11 +209,11 @@ Breaking down complex tech concepts into digestible, empowering content. Join th
 
 ```yaml
 Current Projects:
-  - 🏗️ Enterprise-level Spring Boot applications
-  - 🌐 Modern React web applications
-  - 🤖 AI-powered solutions and tools
-  - 📚 Educational content for developers
-  - 🚀 Open-source contributions
+  -  Enterprise-level Spring Boot applications
+  -  Modern React web applications
+  -  AI-powered solutions and tools
+  -  Educational content for developers
+  -  Open-source contributions
 
 Learning Focus:
   - Advanced microservices architecture
@@ -229,11 +229,11 @@ Learning Focus:
 From writing **Java code on paper** to winning **international hackathons** and teaching **thousands online** — my journey is proof that with dedication, curiosity, and the right mindset, you can achieve anything from anywhere.
 
 **Timeline:**
-- 📝 Started with fundamentals and paper coding
-- 💻 Built real-world applications and projects
-- 🏆 Won national and international hackathons
-- 📺 Launched DEBUG WITH MAS educational channel
-- 🌍 Empowering others through technology
+-  Started with fundamentals and paper coding
+-  Built real-world applications and projects
+-  Won national and international hackathons
+-  Launched DEBUG WITH MAS educational channel
+-  Empowering others through technology
 
 ---
 
