@@ -86,11 +86,11 @@ I'm a purpose-driven software developer passionate about creating **clean, scala
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=munezeromas&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=munezeromas&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munezeromas&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=munezeromas&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munezeromas&theme=radical" alt="Profile Summary" />
 </div>
+
 
 ---
 
