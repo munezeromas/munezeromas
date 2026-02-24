@@ -1,105 +1,94 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=0,0,255,0,0,255&height=250&section=header&text=MUNEZERO%20ALINE&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-### 🌌 FULL-STACK ARCHITECT | INNOVATION LEAD | HACKATHON CHAMPION
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=MUNEZERO%20ALINE&fontSize=80&fontColor=00e5ff&animation=glitch&fontAlignY=45"/>
 
 <p align="center">
-  <a href="https://ability250.netlify.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=Firefox-Browser&logoColor=007BFF&border=007BFF" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/munezero-aline-389058314/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:alinemunezero444@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=007BFF" alt="Email"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=00e5ff&center=true&vCenter=true&width=600&lines=SYSTEM+ARCHITECT+ACTIVE;HACKATHON+CHAMPION+2024;FULL-STACK+ENGINEERING;KIGALI+%E2%80%A2+RWANDA" />
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=CORE+SYSTEM+ACTIVE;ARCHITECTING+FUTURE+AI;HACKATHON+CHAMPION+2024;KIGALI+TO+THE+WORLD" alt="Typing SVG" />
-
-</div>
 
 ---
 
-## 🛰️ 3D TECH STACK ANALYTICS
+### [ ⚡ ] SYSTEM CORE STATUS
+| **Uptime** | **Connection** | **Focus** | **Expertise** |
+| :--- | :--- | :--- | :--- |
+| `100%` | `Secure` | `System Scalability` | `Full-Stack Architecture` |
 
-<div align="center">
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,mysql,postgres,docker,linux,github,vscode,tailwind&perline=6&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nodejs,mysql,postgres,docker,linux,aws,git&perline=6&theme=dark" />
 </p>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=munezeromas&bg_color=000000&color=007BFF&line=007BFF&point=FFFFFF&area=true&hide_border=true&theme=github-dark-black&days=30" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=munezeromas&bg_color=000000&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&theme=github-dark-black&days=30" />
 
-</div>
+<br/>
 
----
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=munezeromas&show_icons=true&theme=transparent&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&hide_border=true&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munezeromas&layout=compact&theme=transparent&title_color=00e5ff&text_color=ffffff&hide_border=true&border_radius=10" />
+</p>
 
-## 🏆 GLOBAL ACHIEVEMENTS
+<br/>
 
-<div align="center">
-
-| PROJECT / EVENT | SPECIFICATIONS | STATUS |
-| :--- | :--- | :--- |
-| **ABILITY PLATFORM** | Digital Empowerment Engine | `STABLE` |
-| **GLC AI HACKATHON** | Global Innovation Winner | `AWARDED` |
-| **DEBUG WITH MAS** | Tech Education Channel | `ACTIVE` |
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=munezeromas&show_icons=true&theme=tokyonight&bg_color=000000&title_color=007BFF&icon_color=007BFF&text_color=ffffff&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munezeromas&layout=compact&theme=tokyonight&bg_color=000000&title_color=007BFF&text_color=ffffff&hide_border=true" />
-</div>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=munezeromas&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
 
 ---
 
-## 💎 CORE INITIATIVES
+## [ 01 ] FEATURED ARCHITECTURE
 
-<div align="center">
-
-<table>
+<table border="0">
 <tr>
-<td width="50%" align="center">
+<td width="50%">
 
-### ABILITY PLATFORM
-**HOLOGRAPHIC UI DESIGN**
-Bridging technology gaps with high-performance web architecture.
+### 💠 ABILITY PLATFORM
+**_The Interface of Empowerment_**
+Building high-availability web systems to bridge digital inequality. Designed with clean architectural patterns.
 <br/>
-[INTERFACE 🔗](https://ability250.netlify.app)
+[ **DEPLOYMENT** ➜ ](https://ability250.netlify.app)
 
 </td>
-<td width="50%" align="center">
+<td width="50%">
 
-### AI HACKATHON
-**INTERNATIONAL CHAMPION**
-Awarded for creating complex AI-driven solutions for global impact.
+### 💠 GLC AI HACKATHON
+**_International Champion_**
+Developed award-winning AI logic to solve infrastructure complexity. First place winner 2024.
 <br/>
-[CREDENTIALS 🔗](https://github.com/munezeromas)
+[ **REPOSITORY** ➜ ](https://github.com/munezeromas)
 
 </td>
 </tr>
 </table>
 
-</div>
+---
+
+## [ 02 ] KNOWLEDGE DISSEMINATION / DEBUG WITH MAS
+
+> **_Teaching is the ultimate form of mastery._** > Providing technical breakdowns of Java, Spring Boot, and Enterprise Scalability.
+
+[ **YOUTUBE CHANNEL** ➜ ](https://www.youtube.com/@DEBUGWITHMAS)
 
 ---
 
-## 📡 CONNECT INTERFACE
+## [ 03 ] INTERFACE LINKS
 
-<div align="center">
-
-### [YOUTUBE](https://www.youtube.com/@DEBUGWITHMAS) • [LINKEDIN](https://www.linkedin.com/in/munezero-aline-389058314/) • [PORTFOLIO](https://ability250.netlify.app)
-
-**FOCUS:** MICROSERVICES | SYSTEM SCALABILITY | AI INTEGRATION
+<p align="center">
+  <a href="https://www.linkedin.com/in/munezero-aline-389058314/">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=000000" />
+  </a>
+  <a href="mailto:alinemunezero444@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00e5ff&labelColor=000000" />
+  </a>
+  <a href="https://ability250.netlify.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=00e5ff&labelColor=000000" />
+  </a>
+</p>
 
 <br/>
 
-### "The best way to predict the future is to code it."
+### "Binary is the heartbeat of innovation."
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=0,0,255,0,0,255&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=0,229,255,0,0,0&height=120&section=footer&flip=true"/>
 
 </div>
