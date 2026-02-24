@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=MUNEZERO%20ALINE&fontSize=80&fontColor=00e5ff&animation=glitch&fontAlignY=45"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=00e5ff&center=true&vCenter=true&width=600&lines=SYSTEM+ARCHITECT+ACTIVE;HACKATHON+CHAMPION+2024;FULL-STACK+ENGINEERING;KIGALI+%E2%80%A2+RWANDA" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=00e5ff&center=true&vCenter=true&width=600&lines=SYSTEM+ARCHITECT+ACTIVE;HACKATHON+CHAMPION+2024;FULL-STACK+ENGINEER;KIGALI+%E2%80%A2+RWANDA" />
 </p>
 
 ---
