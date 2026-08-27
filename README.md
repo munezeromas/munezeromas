@@ -2,9 +2,9 @@
 
 <img src="./assets/header-banner.svg" alt="MUNEZERO Aline" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=00FF41&background=0D0208&center=true&vCenter=true&width=800&lines=INITIALIZING+PROFILE...;IDENTITY%3A+ALINE+MUNEZERO;ROLE%3A+FULL-STACK+ENGINEER;CLEARANCE%3A+GLC+AI+HACKATHON+CHAMPION+2024;NODE%3A+FEMTECH+RWANDA+%2F%2F+FOUNDER;ACCESS+GRANTED." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=2E7FFF&background=060B18&center=true&vCenter=true&width=800&lines=INITIALIZING+PROFILE...;IDENTITY%3A+ALINE+MUNEZERO;ROLE%3A+FULL-STACK+ENGINEER;CLEARANCE%3A+GLC+AI+HACKATHON+CHAMPION+2024;NODE%3A+FEMTECH+RWANDA+%2F%2F+FOUNDER;ACCESS+GRANTED." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0208&height=3&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=060B18&height=3&section=header"/>
 
 </div>
 
@@ -13,18 +13,19 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D0208&logo=terminal&logoColor=00FF41" />
-  <img src="https://img.shields.io/badge/ENCRYPTION-AES--256-00FF41?style=for-the-badge&labelColor=0D0208" />
-  <img src="https://img.shields.io/badge/ACCESS-ROOT-00FF41?style=for-the-badge&labelColor=0D0208" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-2E7FFF?style=for-the-badge&labelColor=060B18" />
+  <img src="https://img.shields.io/badge/ENCRYPTION-AES--256-2E7FFF?style=for-the-badge&labelColor=060B18" />
+  <img src="https://img.shields.io/badge/ACCESS-ROOT-2E7FFF?style=for-the-badge&labelColor=060B18" />
 </p>
 
 <pre align="center">
-██████╗  ██████╗  ██████╗ ████████╗    ███╗   ███╗██╗   ██╗███╗   ██╗███████╗███████╗
-██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝    ████╗ ████║██║   ██║████╗  ██║██╔════╝╚══███╔╝
-██████╔╝██║   ██║██║   ██║   ██║       ██╔████╔██║██║   ██║██╔██╗ ██║█████╗    ███╔╝
-██╔══██╗██║   ██║██║   ██║   ██║       ██║╚██╔╝██║██║   ██║██║╚██╗██║██╔══╝   ███╔╝
-██║  ██║╚██████╔╝╚██████╔╝   ██║       ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║███████╗███████╗
-╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝       ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝
++--------------------------------------------------+
+|                                                    |
+|            A L I N E   M U N E Z E R O            |
+|            ---------------------------            |
+|              [ ROOT ACCESS GRANTED ]              |
+|                                                    |
++--------------------------------------------------+
 </pre>
 
 <br>
@@ -35,9 +36,9 @@
 
 [+] Establishing secure connection.......... [ OK ]
 [+] Authenticating user: MUNEZERO ALINE...... [ OK ]
-[+] Decrypting module: java.................. [ v21   ]
-[+] Decrypting module: spring_boot........... [ v3.2  ]
-[+] Decrypting module: react.................. [ v18   ]
+[+] Decrypting module: java.................. [ v21    ]
+[+] Decrypting module: spring_boot........... [ v3.2   ]
+[+] Decrypting module: react.................. [ v18    ]
 [+] Decrypting module: fastapi............... [ v0.110 ]
 [+] Loading credentials....................... [ GLC_HACKATHON_CHAMPION_2024 ]
 [+] Loading credentials....................... [ FOUNDER_FEMTECH_RWANDA ]
@@ -47,7 +48,7 @@
 
 <br>
 
-## ▓▓▓ [ 0x01 ] :: IDENTITY
+## [ 0x01 ] :: IDENTITY
 
 ```yaml
 alias:        Aline Munezero
@@ -61,16 +62,15 @@ directive:    Build technology that works for the people it usually leaves out
 
 <br>
 
-## ▓▓▓ [ 0x02 ] :: DEPLOYED SYSTEMS
+## [ 0x02 ] :: DEPLOYED SYSTEMS
 
 <table border="0">
 <tr>
 <td width="50%" valign="top">
 
 ```
-┌─[ PROJECT_01 ]───────────────┐
-│ ABILITY                      │
-└───────────────────────────────┘
+[ PROJECT_01 ]
+ABILITY
 ```
 Voice-first accessibility platform built for visually impaired users —
 real-time voice interaction as the primary interface, not an afterthought.
@@ -84,9 +84,8 @@ real-time voice interaction as the primary interface, not an afterthought.
 <td width="50%" valign="top">
 
 ```
-┌─[ PROJECT_02 ]───────────────┐
-│ TEGABUS                      │
-└───────────────────────────────┘
+[ PROJECT_02 ]
+TEGABUS
 ```
 Intercity bus booking platform — mobile money payments, QR ticketing,
 and concurrent seat-reservation handling.
@@ -102,9 +101,8 @@ and concurrent seat-reservation handling.
 <td width="50%" valign="top">
 
 ```
-┌─[ PROJECT_03 ]───────────────┐
-│ VIVE AI                      │
-└───────────────────────────────┘
+[ PROJECT_03 ]
+VIVE AI
 ```
 Adaptive learning assistant for students who need alternative formats,
 built around an AI tutoring layer.
@@ -117,9 +115,8 @@ built around an AI tutoring layer.
 <td width="50%" valign="top">
 
 ```
-┌─[ PROJECT_04 ]───────────────┐
-│ KURA / AGRIQ                 │
-└───────────────────────────────┘
+[ PROJECT_04 ]
+KURA / AGRIQ
 ```
 Agricultural intelligence platform backed by market research, powered
 by a FastAPI backend for field-level insights.
@@ -134,7 +131,7 @@ by a FastAPI backend for field-level insights.
 
 <br>
 
-## ▓▓▓ [ 0x03 ] :: NETWORK / COMMUNITY
+## [ 0x03 ] :: NETWORK / COMMUNITY
 
 ```
 [NODE] FEMTECH_RWANDA  ::  founder
@@ -149,7 +146,7 @@ by a FastAPI backend for field-level insights.
 
 <br>
 
-## ▓▓▓ [ 0x04 ] :: TECH STACK
+## [ 0x04 ] :: TECH STACK
 
 ```json
 {
@@ -162,20 +159,20 @@ by a FastAPI backend for field-level insights.
 
 <br>
 
-## ▓▓▓ [ 0x05 ] :: TRANSMISSION CHANNELS
+## [ 0x05 ] :: TRANSMISSION CHANNELS
 
 <p align="center">
   <a href="https://www.linkedin.com/in/munezero-aline-389058314/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0D0208?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D0208" />
+    <img src="https://img.shields.io/badge/LINKEDIN-060B18?style=for-the-badge&logo=linkedin&logoColor=2E7FFF&labelColor=060B18" />
   </a>
   <a href="mailto:alinemunezero444@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0D0208?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D0208" />
+    <img src="https://img.shields.io/badge/EMAIL-060B18?style=for-the-badge&logo=gmail&logoColor=2E7FFF&labelColor=060B18" />
   </a>
   <a href="https://ability250.netlify.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0D0208?style=for-the-badge&logo=react&logoColor=00FF41&labelColor=0D0208" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-060B18?style=for-the-badge&logo=react&logoColor=2E7FFF&labelColor=060B18" />
   </a>
   <a href="https://www.youtube.com/@DEBUGWITHMAS">
-    <img src="https://img.shields.io/badge/YOUTUBE-0D0208?style=for-the-badge&logo=youtube&logoColor=00FF41&labelColor=0D0208" />
+    <img src="https://img.shields.io/badge/YOUTUBE-060B18?style=for-the-badge&logo=youtube&logoColor=2E7FFF&labelColor=060B18" />
   </a>
 </p>
 
@@ -185,6 +182,6 @@ by a FastAPI backend for field-level insights.
 [SYSTEM] connection closed by operator.
 </pre>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0208&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=060B18&height=100&section=footer"/>
 
 </div>
