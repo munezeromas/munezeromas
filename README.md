@@ -1,68 +1,122 @@
-<p align="center">
-  <sub>jeslor@github:~$ <i>thanks for stopping by</i> █</sub>
-</p><div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=MUNEZERO%20ALINE&fontSize=80&fontColor=00e5ff&animation=glitch&fontAlignY=45"/>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=500&color=00e5ff&center=true&vCenter=true&width=600&lines=SYSTEM+ARCHITECT+ACTIVE;HACKATHON+CHAMPION+2024;FULL-STACK+ENGINEER;KIGALI+%E2%80%A2+RWANDA" />
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=280&color=0:000000,50:0A192F,100:00E5FF&text=ALINE%20MUNEZERO&fontSize=70&fontColor=FFFFFF&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+%40+Edspire;International+AI+Hackathon+Champion;Building+Technology+for+Accessible+Education;Java+%7C+Spring+Boot+%7C+React+%7C+AI;Kigali+%7C+Rwanda"/>
+
+</div>
+
 ---
-### [ ⚡ ] SYSTEM CORE STATUS
-| **Uptime** | **Connection** | **Focus** | **Expertise** |
-| :--- | :--- | :--- | :--- |
-| 100% | Secure | System Scalability | Full-Stack Architecture |
+
+## SYSTEM OVERVIEW
+
+```yaml
+identity:
+  name: Aline Munezero
+  role: Software Engineer
+  company: Edspire
+  location: Kigali, Rwanda
+
+achievements:
+  - International AI Hackathon Champion
+  - Ability AI showcased in Switzerland
+  - Founder & CEO of Edspire
+  - Builder of inclusive learning technology
+
+focus:
+  - Artificial Intelligence
+  - Backend Engineering
+  - Accessibility
+  - Educational Technology
+```
+
 ---
+
+## TECH STACK
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,nodejs,mysql,postgres,docker,linux,aws,git&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,python,postgres,mysql,docker,git,linux,aws&perline=6"/>
 </p>
-<br/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=munezeromas&bg_color=000000&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&theme=github-dark-black&days=30" />
-<br/>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=munezeromas&show_icons=true&theme=transparent&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&hide_border=true&border_radius=10" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munezeromas&layout=compact&theme=transparent&title_color=00e5ff&text_color=ffffff&hide_border=true&border_radius=10" />
-</p>
-<br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=munezeromas&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" />
+
 ---
-## [ 01 ] FEATURED ARCHITECTURE
-<table border="0">
+
+## IMPACT DASHBOARD
+
+<table>
 <tr>
-<td width="50%">
-### 💠 ABILITY PLATFORM
-**_The Interface of Empowerment_**
-Building high-availability web systems to bridge digital inequality. Designed with clean architectural patterns.
-<br/>
-[ **DEPLOYMENT** ➜ ](https://ability250.netlify.app)
+<td align="center" width="25%">
+
+### AI
+
+Building intelligent learning systems
+
 </td>
-<td width="50%">
-### 💠 GLC AI HACKATHON
-**_International Champion_**
-Developed award-winning AI logic to solve infrastructure complexity. First place winner 2024.
-<br/>
-[ **REPOSITORY** ➜ ](https://github.com/munezeromas)
+
+<td align="center" width="25%">
+
+### ACCESSIBILITY
+
+Technology for underserved learners
+
+</td>
+
+<td align="center" width="25%">
+
+### EDUCATION
+
+Adaptive learning experiences
+
+</td>
+
+<td align="center" width="25%">
+
+### ENGINEERING
+
+Full-stack product development
+
 </td>
 </tr>
 </table>
----
-## [ 02 ] KNOWLEDGE DISSEMINATION / DEBUG WITH MAS
 
-**_Teaching is the ultimate form of mastery._** > Providing technical breakdowns of Java, Spring Boot, and Enterprise Scalability.
-
-[ **YOUTUBE CHANNEL** ➜ ](https://www.youtube.com/@DEBUGWITHMAS)
 ---
-## [ 03 ] INTERFACE LINKS
+
+## LIVE TELEMETRY
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/munezero-aline-389058314/">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=000000" />
-  </a>
-  <a href="mailto:alinemunezero444@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00e5ff&labelColor=000000" />
-  </a>
-  <a href="https://ability250.netlify.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=00e5ff&labelColor=000000" />
-  </a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=munezeromas&bg_color=000000&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true"/>
 </p>
-<br/>
-### "Binary is the heartbeat of innovation."
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&customColorList=0,229,255,0,0,0&height=120&section=footer&flip=true"/>
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=munezeromas&show_icons=true&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munezeromas&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## NETWORK
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/munezero-aline-389058314/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+</a>
+
+<a href="mailto:alinemunezero444@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+</a>
+
+<a href="https://ability250.netlify.app">
+<img src="https://img.shields.io/badge/ABILITY_AI-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### BUILDING THE FUTURE OF ACCESSIBLE LEARNING
+
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:00E5FF&section=footer"/>
