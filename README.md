@@ -2,128 +2,113 @@
 
 <img src="./assets/header-banner.svg" alt="MUNEZERO Aline" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=2E7FFF&background=060B18&center=true&vCenter=true&width=800&lines=INITIALIZING+PROFILE...;IDENTITY%3A+ALINE+MUNEZERO;ROLE%3A+FULL-STACK+ENGINEER;CLEARANCE%3A+GLC+AI+HACKATHON+CHAMPION+2024;NODE%3A+FEMTECH+RWANDA+%2F%2F+FOUNDER;ACCESS+GRANTED." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=2E7FFF&background=060B18&center=true&vCenter=true&width=800&lines=ALINE+MUNEZERO;FULL-STACK+ENGINEER;GLC+AI+HACKATHON+CHAMPION+2024;FOUNDER+%40+FEMTECH+RWANDA" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=060B18&height=3&section=header"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-2E7FFF?style=for-the-badge&labelColor=060B18" />
+<img src="https://img.shields.io/badge/LOCATION-RWANDA-2E7FFF?style=for-the-badge&labelColor=060B18" />
+<img src="https://img.shields.io/badge/ACCESS-ROOT-2E7FFF?style=for-the-badge&labelColor=060B18" />
 
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,python,fastapi,mysql,postgres,docker,git,linux&perline=6&theme=dark" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-2E7FFF?style=for-the-badge&labelColor=060B18" />
-  <img src="https://img.shields.io/badge/ENCRYPTION-AES--256-2E7FFF?style=for-the-badge&labelColor=060B18" />
-  <img src="https://img.shields.io/badge/ACCESS-ROOT-2E7FFF?style=for-the-badge&labelColor=060B18" />
-</p>
+<div align="center">
 
-<pre align="center">
-+--------------------------------------------------+
-|                                                    |
-|            A L I N E   M U N E Z E R O            |
-|            ---------------------------            |
-|              [ ROOT ACCESS GRANTED ]              |
-|                                                    |
-+--------------------------------------------------+
-</pre>
+<img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,python,fastapi,mysql,postgres,docker,git,linux&perline=6&theme=dark" />
+
+</div>
 
 <br>
 
-```bash
-┌──(aline@core)-[~/system]
-└─$ ./boot_sequence.sh
+<div align="center">
 
-[+] Establishing secure connection.......... [ OK ]
-[+] Authenticating user: MUNEZERO ALINE...... [ OK ]
-[+] Decrypting module: java.................. [ v21    ]
-[+] Decrypting module: spring_boot........... [ v3.2   ]
-[+] Decrypting module: react.................. [ v18    ]
-[+] Decrypting module: fastapi............... [ v0.110 ]
-[+] Loading credentials....................... [ GLC_HACKATHON_CHAMPION_2024 ]
-[+] Loading credentials....................... [ FOUNDER_FEMTECH_RWANDA ]
+<img src="https://img.shields.io/badge/WINNER-GLC%20AI%20HACKATHON%202024-2E7FFF?style=flat-square&labelColor=060B18" />
+<img src="https://img.shields.io/badge/EXHIBITED-SWITZERLAND-2E7FFF?style=flat-square&labelColor=060B18" />
+<img src="https://img.shields.io/badge/FOUNDER-FEMTECH%20RWANDA-2E7FFF?style=flat-square&labelColor=060B18" />
 
-[SYSTEM] Access granted. Welcome back, operator.
-```
+</div>
 
 <br>
 
-## [ 0x01 ] :: IDENTITY
+## PROJECTS
 
-```yaml
-alias:        Aline Munezero
-class:        Full-Stack Engineer / Systems Builder
-location:     Rwanda
-specialty:    Backend architecture, accessible AI interfaces, distributed systems
-credential:   Winner — GLC National AI Hackathon 2024 (exhibited in Switzerland)
-founded:      FemTech Rwanda
-directive:    Build technology that works for the people it usually leaves out
-```
-
-<br>
-
-## [ 0x02 ] :: DEPLOYED SYSTEMS
-
-<table border="0">
+<table border="0" cellspacing="10" cellpadding="0">
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-```
-[ PROJECT_01 ]
-ABILITY
-```
-Voice-first accessibility platform built for visually impaired users —
-real-time voice interaction as the primary interface, not an afterthought.
+<div align="center">
 
-`credential` :: Winner, GLC 2024 National AI Hackathon — Switzerland
-`stack` :: React · TypeScript · Node.js · Web Speech API
+**ABILITY**
 
-**[ ACCESS DEMO → ]**(https://ability250.netlify.app)
+<img src="https://img.shields.io/badge/React-2E7FFF?style=flat-square&labelColor=060B18" />
+<img src="https://img.shields.io/badge/TypeScript-2E7FFF?style=flat-square&labelColor=060B18" />
+<img src="https://img.shields.io/badge/Node.js-2E7FFF?style=flat-square&labelColor=060B18" />
+
+Voice-first accessibility platform
+
+<img src="https://img.shields.io/badge/🏆_GLC_2024_WINNER-060B18?style=for-the-badge&color=2E7FFF" />
+
+[**DEMO →**](https://ability250.netlify.app)
+
+</div>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-```
-[ PROJECT_02 ]
-TEGABUS
-```
-Intercity bus booking platform — mobile money payments, QR ticketing,
-and concurrent seat-reservation handling.
+<div align="center">
 
-`integrations` :: MTN MoMo · Flutterwave
-`stack` :: Java · Spring Boot · PostgreSQL · Docker
+**TEGABUS**
 
-**[ ACCESS REPO → ]**(https://github.com/munezeromas)
+<img src="https://img.shields.io/badge/Java-2E7FFF?style=flat-square&labelColor=060B18" />
+<img src="https://img.shields.io/badge/Spring_Boot-2E7FFF?style=flat-square&labelColor=060B18" />
+<img src="https://img.shields.io/badge/PostgreSQL-2E7FFF?style=flat-square&labelColor=060B18" />
+
+Intercity bus booking + payments
+
+<img src="https://img.shields.io/badge/MTN_MOMO-060B18?style=for-the-badge&color=2E7FFF" />
+<img src="https://img.shields.io/badge/FLUTTERWAVE-060B18?style=for-the-badge&color=2E7FFF" />
+
+[**REPO →**](https://github.com/munezeromas)
+
+</div>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-```
-[ PROJECT_03 ]
-VIVE AI
-```
-Adaptive learning assistant for students who need alternative formats,
-built around an AI tutoring layer.
+<div align="center">
 
-`stack` :: React · TypeScript · Cohere · Gemini
+**VIVE AI**
 
-**[ ACCESS REPO → ]**(https://github.com/munezeromas)
+<img src="https://img.shields.io/badge/React-2E7FFF?style=flat-square&labelColor=060B18" />
+<img src="https://img.shields.io/badge/Cohere-2E7FFF?style=flat-square&labelColor=060B18" />
+<img src="https://img.shields.io/badge/Gemini-2E7FFF?style=flat-square&labelColor=060B18" />
+
+Adaptive AI learning assistant
+
+[**REPO →**](https://github.com/munezeromas)
+
+</div>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-```
-[ PROJECT_04 ]
-KURA / AGRIQ
-```
-Agricultural intelligence platform backed by market research, powered
-by a FastAPI backend for field-level insights.
+<div align="center">
 
-`stack` :: Python · FastAPI · PostgreSQL
+**KURA / AGRIQ**
 
-**[ ACCESS REPO → ]**(https://github.com/munezeromas)
+<img src="https://img.shields.io/badge/Python-2E7FFF?style=flat-square&labelColor=060B18" />
+<img src="https://img.shields.io/badge/FastAPI-2E7FFF?style=flat-square&labelColor=060B18" />
+<img src="https://img.shields.io/badge/PostgreSQL-2E7FFF?style=flat-square&labelColor=060B18" />
+
+Agricultural intelligence platform
+
+[**REPO →**](https://github.com/munezeromas)
+
+</div>
 
 </td>
 </tr>
@@ -131,56 +116,52 @@ by a FastAPI backend for field-level insights.
 
 <br>
 
-## [ 0x03 ] :: NETWORK / COMMUNITY
+## COMMUNITY
 
-```
-[NODE] FEMTECH_RWANDA  ::  founder
-       > women-in-tech community, built ground-up
-       > mentorship + collaboration + digital skills
+<div align="center">
 
-[NODE] DEBUG_WITH_MAS  ::  broadcast channel
-       > breaking down engineering fundamentals
-       > developer journey, for African engineers
-       > https://www.youtube.com/@DEBUGWITHMAS
-```
+<img src="https://img.shields.io/badge/FEMTECH_RWANDA-FOUNDER-2E7FFF?style=for-the-badge&labelColor=060B18" />
+<img src="https://img.shields.io/badge/DEBUG_WITH_MAS-YOUTUBE-2E7FFF?style=for-the-badge&labelColor=060B18&logo=youtube&logoColor=2E7FFF" />
+
+</div>
 
 <br>
 
-## [ 0x04 ] :: TECH STACK
+## STATS
 
-```json
-{
-  "backend":  ["Java", "Spring Boot", "Python", "FastAPI"],
-  "frontend": ["TypeScript", "React", "Next.js"],
-  "data":     ["PostgreSQL", "MySQL"],
-  "infra":    ["Docker", "Git", "Linux"]
-}
-```
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=munezeromas&show_icons=true&theme=transparent&title_color=2E7FFF&icon_color=2E7FFF&text_color=ffffff&hide_border=true&bg_color=00000000" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munezeromas&layout=compact&theme=transparent&title_color=2E7FFF&text_color=ffffff&hide_border=true&bg_color=00000000" width="48%" />
+
+<img src="https://streak-stats.demolab.com?user=munezeromas&theme=transparent&hide_border=true&background=00000000&ring=2E7FFF&fire=2E7FFF&currStreakLabel=2E7FFF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="100%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=munezeromas&bg_color=00000000&color=2E7FFF&line=2E7FFF&point=ffffff&hide_border=true&area=true" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=munezeromas&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="100%" />
+
+</div>
 
 <br>
 
-## [ 0x05 ] :: TRANSMISSION CHANNELS
+## CONNECT
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/munezero-aline-389058314/">
-    <img src="https://img.shields.io/badge/LINKEDIN-060B18?style=for-the-badge&logo=linkedin&logoColor=2E7FFF&labelColor=060B18" />
-  </a>
-  <a href="mailto:alinemunezero444@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-060B18?style=for-the-badge&logo=gmail&logoColor=2E7FFF&labelColor=060B18" />
-  </a>
-  <a href="https://ability250.netlify.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-060B18?style=for-the-badge&logo=react&logoColor=2E7FFF&labelColor=060B18" />
-  </a>
-  <a href="https://www.youtube.com/@DEBUGWITHMAS">
-    <img src="https://img.shields.io/badge/YOUTUBE-060B18?style=for-the-badge&logo=youtube&logoColor=2E7FFF&labelColor=060B18" />
-  </a>
-</p>
+<div align="center">
 
-<pre align="center">
-[SYSTEM] end of transmission.
-[SYSTEM] status: building accessible technology, one system at a time.
-[SYSTEM] connection closed by operator.
-</pre>
+<a href="https://www.linkedin.com/in/munezero-aline-389058314/">
+<img src="https://img.shields.io/badge/LINKEDIN-060B18?style=for-the-badge&logo=linkedin&logoColor=2E7FFF&labelColor=060B18" />
+</a>
+<a href="mailto:alinemunezero444@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-060B18?style=for-the-badge&logo=gmail&logoColor=2E7FFF&labelColor=060B18" />
+</a>
+<a href="https://ability250.netlify.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-060B18?style=for-the-badge&logo=react&logoColor=2E7FFF&labelColor=060B18" />
+</a>
+<a href="https://www.youtube.com/@DEBUGWITHMAS">
+<img src="https://img.shields.io/badge/YOUTUBE-060B18?style=for-the-badge&logo=youtube&logoColor=2E7FFF&labelColor=060B18" />
+</a>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=060B18&height=100&section=footer"/>
 
