@@ -2,7 +2,9 @@
 
 <img src="./assets/header-banner.svg" alt="MUNEZERO Aline" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=500&size=20&duration=3000&pause=800&color=5B8DEF&center=true&vCenter=true&width=700&lines=FULL-STACK+ENGINEER;SYSTEMS+ARCHITECT;GLC+AI+HACKATHON+CHAMPION+2024;FOUNDER+%40+FEMTECH+RWANDA" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=00FF41&background=0D0208&center=true&vCenter=true&width=800&lines=INITIALIZING+PROFILE...;IDENTITY%3A+ALINE+MUNEZERO;ROLE%3A+FULL-STACK+ENGINEER;CLEARANCE%3A+GLC+AI+HACKATHON+CHAMPION+2024;NODE%3A+FEMTECH+RWANDA+%2F%2F+FOUNDER;ACCESS+GRANTED." />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0208&height=3&section=header"/>
 
 </div>
 
@@ -10,119 +12,179 @@
   <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,python,fastapi,mysql,postgres,docker,git,linux&perline=6&theme=dark" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=0D0208&logo=terminal&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/ENCRYPTION-AES--256-00FF41?style=for-the-badge&labelColor=0D0208" />
+  <img src="https://img.shields.io/badge/ACCESS-ROOT-00FF41?style=for-the-badge&labelColor=0D0208" />
+</p>
+
+<pre align="center">
+██████╗  ██████╗  ██████╗ ████████╗    ███╗   ███╗██╗   ██╗███╗   ██╗███████╗███████╗
+██╔══██╗██╔═══██╗██╔═══██╗╚══██╔══╝    ████╗ ████║██║   ██║████╗  ██║██╔════╝╚══███╔╝
+██████╔╝██║   ██║██║   ██║   ██║       ██╔████╔██║██║   ██║██╔██╗ ██║█████╗    ███╔╝
+██╔══██╗██║   ██║██║   ██║   ██║       ██║╚██╔╝██║██║   ██║██║╚██╗██║██╔══╝   ███╔╝
+██║  ██║╚██████╔╝╚██████╔╝   ██║       ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║███████╗███████╗
+╚═╝  ╚═╝ ╚═════╝  ╚═════╝    ╚═╝       ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝
+</pre>
+
 <br>
 
 ```bash
-guest@github:~$ whoami
-Aline Munezero — Software Engineer, Rwanda
+┌──(aline@core)-[~/system]
+└─$ ./boot_sequence.sh
 
-guest@github:~$ cat profile.status
-Full-stack engineer building backend systems and accessible AI interfaces.
-Winner, GLC National AI Hackathon 2024. Founder, FemTech Rwanda.
+[+] Establishing secure connection.......... [ OK ]
+[+] Authenticating user: MUNEZERO ALINE...... [ OK ]
+[+] Decrypting module: java.................. [ v21   ]
+[+] Decrypting module: spring_boot........... [ v3.2  ]
+[+] Decrypting module: react.................. [ v18   ]
+[+] Decrypting module: fastapi............... [ v0.110 ]
+[+] Loading credentials....................... [ GLC_HACKATHON_CHAMPION_2024 ]
+[+] Loading credentials....................... [ FOUNDER_FEMTECH_RWANDA ]
+
+[SYSTEM] Access granted. Welcome back, operator.
 ```
 
----
+<br>
 
-## [ 01 ] PROFILE
+## ▓▓▓ [ 0x01 ] :: IDENTITY
 
-Software engineer based in Rwanda, focused on backend systems, distributed
-architecture, and accessible AI-driven interfaces. I build things end to end
-— API design and data modeling on the backend, usable interfaces on the
-front.
-
-```
-role        : full-stack engineer
-based       : rwanda
-core stack  : java, spring boot, python, fastapi, react, next.js, typescript
-recognition : winner, glc national ai hackathon 2024 (presented in switzerland)
-founded     : femtech rwanda
+```yaml
+alias:        Aline Munezero
+class:        Full-Stack Engineer / Systems Builder
+location:     Rwanda
+specialty:    Backend architecture, accessible AI interfaces, distributed systems
+credential:   Winner — GLC National AI Hackathon 2024 (exhibited in Switzerland)
+founded:      FemTech Rwanda
+directive:    Build technology that works for the people it usually leaves out
 ```
 
----
+<br>
 
-## [ 02 ] PROJECTS
+## ▓▓▓ [ 0x02 ] :: DEPLOYED SYSTEMS
 
 <table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>ABILITY</h3>
-      <p>Voice-first accessibility platform for visually impaired users. Built for real-time voice interaction rather than a traditional visual UI.</p>
-      <p><code>result</code> — Winner, GLC 2024 National AI Hackathon; presented in Switzerland.</p>
-      <p><code>stack</code> — React, TypeScript, Node.js, Web Speech API</p>
-      <p><a href="https://ability250.netlify.app"><strong>DEMO →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>TEGABUS</h3>
-      <p>Intercity bus booking platform with mobile money payments, QR ticketing, and seat reservation handling built for concurrent bookings.</p>
-      <p><code>integrations</code> — MTN MoMo, Flutterwave</p>
-      <p><code>stack</code> — Java, Spring Boot, PostgreSQL, Docker</p>
-      <p><a href="https://github.com/munezeromas"><strong>REPOSITORY →</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>VIVE AI</h3>
-      <p>Adaptive learning assistant for students who need alternative formats — built around an AI tutoring layer rather than static content.</p>
-      <p><code>stack</code> — React, TypeScript, Cohere, Gemini</p>
-      <p><a href="https://github.com/munezeromas"><strong>REPOSITORY →</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>KURA / AGRIQ</h3>
-      <p>Agricultural intelligence platform backed by market research, with a FastAPI backend for data-driven farming insights.</p>
-      <p><code>stack</code> — Python, FastAPI, PostgreSQL</p>
-      <p><a href="https://github.com/munezeromas"><strong>REPOSITORY →</strong></a></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+```
+┌─[ PROJECT_01 ]───────────────┐
+│ ABILITY                      │
+└───────────────────────────────┘
+```
+Voice-first accessibility platform built for visually impaired users —
+real-time voice interaction as the primary interface, not an afterthought.
+
+`credential` :: Winner, GLC 2024 National AI Hackathon — Switzerland
+`stack` :: React · TypeScript · Node.js · Web Speech API
+
+**[ ACCESS DEMO → ]**(https://ability250.netlify.app)
+
+</td>
+<td width="50%" valign="top">
+
+```
+┌─[ PROJECT_02 ]───────────────┐
+│ TEGABUS                      │
+└───────────────────────────────┘
+```
+Intercity bus booking platform — mobile money payments, QR ticketing,
+and concurrent seat-reservation handling.
+
+`integrations` :: MTN MoMo · Flutterwave
+`stack` :: Java · Spring Boot · PostgreSQL · Docker
+
+**[ ACCESS REPO → ]**(https://github.com/munezeromas)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+```
+┌─[ PROJECT_03 ]───────────────┐
+│ VIVE AI                      │
+└───────────────────────────────┘
+```
+Adaptive learning assistant for students who need alternative formats,
+built around an AI tutoring layer.
+
+`stack` :: React · TypeScript · Cohere · Gemini
+
+**[ ACCESS REPO → ]**(https://github.com/munezeromas)
+
+</td>
+<td width="50%" valign="top">
+
+```
+┌─[ PROJECT_04 ]───────────────┐
+│ KURA / AGRIQ                 │
+└───────────────────────────────┘
+```
+Agricultural intelligence platform backed by market research, powered
+by a FastAPI backend for field-level insights.
+
+`stack` :: Python · FastAPI · PostgreSQL
+
+**[ ACCESS REPO → ]**(https://github.com/munezeromas)
+
+</td>
+</tr>
 </table>
 
----
+<br>
 
-## [ 03 ] COMMUNITY
+## ▓▓▓ [ 0x03 ] :: NETWORK / COMMUNITY
 
-**FEMTECH RWANDA**
-Women-in-tech community I founded and built — mentorship, collaboration, and
-digital skills development for women and girls in technology.
+```
+[NODE] FEMTECH_RWANDA  ::  founder
+       > women-in-tech community, built ground-up
+       > mentorship + collaboration + digital skills
 
-**DEBUG WITH MAS**
-Video series breaking down engineering fundamentals and the developer
-journey for African engineers.
+[NODE] DEBUG_WITH_MAS  ::  broadcast channel
+       > breaking down engineering fundamentals
+       > developer journey, for African engineers
+       > https://www.youtube.com/@DEBUGWITHMAS
+```
 
-<a href="https://www.youtube.com/@DEBUGWITHMAS"><strong>YOUTUBE →</strong></a>
+<br>
 
----
-
-## [ 04 ] STACK
+## ▓▓▓ [ 0x04 ] :: TECH STACK
 
 ```json
 {
-  "backend": ["Java", "Spring Boot", "Python", "FastAPI"],
+  "backend":  ["Java", "Spring Boot", "Python", "FastAPI"],
   "frontend": ["TypeScript", "React", "Next.js"],
-  "data": ["PostgreSQL", "MySQL"],
-  "tools": ["Docker", "Git", "Linux"]
+  "data":     ["PostgreSQL", "MySQL"],
+  "infra":    ["Docker", "Git", "Linux"]
 }
 ```
 
----
+<br>
 
-## [ 05 ] CONNECT
+## ▓▓▓ [ 0x05 ] :: TRANSMISSION CHANNELS
 
 <p align="center">
   <a href="https://www.linkedin.com/in/munezero-aline-389058314/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0b1c3d?style=for-the-badge&logo=linkedin&logoColor=5b8def&labelColor=0b1c3d" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0D0208?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0D0208" />
   </a>
   <a href="mailto:alinemunezero444@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0b1c3d?style=for-the-badge&logo=gmail&logoColor=5b8def&labelColor=0b1c3d" />
+    <img src="https://img.shields.io/badge/EMAIL-0D0208?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0D0208" />
   </a>
   <a href="https://ability250.netlify.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-0b1c3d?style=for-the-badge&logo=react&logoColor=5b8def&labelColor=0b1c3d" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-0D0208?style=for-the-badge&logo=react&logoColor=00FF41&labelColor=0D0208" />
   </a>
   <a href="https://www.youtube.com/@DEBUGWITHMAS">
-    <img src="https://img.shields.io/badge/YOUTUBE-0b1c3d?style=for-the-badge&logo=youtube&logoColor=5b8def&labelColor=0b1c3d" />
+    <img src="https://img.shields.io/badge/YOUTUBE-0D0208?style=for-the-badge&logo=youtube&logoColor=00FF41&labelColor=0D0208" />
   </a>
 </p>
 
-<p align="center">
-  <code>status: building accessible technology, one system at a time</code>
-</p>
+<pre align="center">
+[SYSTEM] end of transmission.
+[SYSTEM] status: building accessible technology, one system at a time.
+[SYSTEM] connection closed by operator.
+</pre>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0b1c3d&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0208&height=100&section=footer"/>
+
+</div>
