@@ -74,22 +74,6 @@ Creating AI-powered solutions that support inclusive education and digital acces
 
 ---
 
-# GITHUB ACTIVITY
-
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=munezeromas&bg_color=020617&color=60A5FA&line=60A5FA&point=FFFFFF&area=true&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=munezeromas&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munezeromas&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="60%" src="https://streak-stats.demolab.com?user=munezeromas&theme=transparent&hide_border=true"/>
-</p>
-
----
 
 # FEATURED WORK
 
